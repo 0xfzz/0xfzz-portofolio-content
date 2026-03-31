@@ -1,12 +1,9 @@
 ---
 title: "Nexus Analytics Dashboard"
-shortDescription: "A high-performance interactive dashboard for visualizing complex real-time telemetry data."
 description: "Nexus Analytics Dashboard provides deep insights into real-time telemetry datasets. Built to handle massive data throughput seamlessly."
 image: "https://picsum.photos/seed/nexus-analytics/1600/900"
-role: "Lead Frontend Engineer"
-timeline: "Aug 2024 - Dec 2024"
 technologies: ["React", "TypeScript", "D3.js", "Tailwind CSS", "WebSockets"]
-githubUrl: "https://github.com/example/nexus-analytics"
+sourceUrl: "https://github.com/example/nexus-analytics"
 slug: "nexus-analytics-dashboard"
 featured: true
 published: true

@@ -3,7 +3,7 @@ title: "Quantum API Engine"
 description: "High-throughput GraphQL engine built for real-time financial data processing, utilizing Rust and Node.js workers."
 image: "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?q=80&w=2070"
 technologies: ["Rust", "GraphQL", "Node.js", "Redis", "Kafka"]
-githubUrl: "https://github.com/0xfzz/quantum-api-engine"
+sourceUrl: "https://github.com/0xfzz/quantum-api-engine"
 liveUrl: "https://quantum-api.demo"
 published: true
 ---

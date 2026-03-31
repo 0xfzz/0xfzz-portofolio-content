@@ -4,7 +4,7 @@ date: "February 28, 2025"
 tags: ["AI", "Software Engineering", "Trends"]
 slug: "the-future-of-ai-in-software-development"
 image: "https://picsum.photos/seed/ai-future-dev/1600/900"
-excerpt: "How large language models and intelligent tooling are reshaping the daily workflow of developers."
+description: "How large language models and intelligent tooling are reshaping the daily workflow of developers."
 published: true
 ---
 

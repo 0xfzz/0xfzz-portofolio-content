@@ -4,7 +4,7 @@ date: "January 15, 2025"
 tags: ["Performance", "Web", "JavaScript"]
 slug: "optimizing-web-performance-2025"
 image: "https://picsum.photos/seed/web-perf-2025/1600/900"
-excerpt: "A comprehensive guide on modern techniques to deliver lightning-fast web experiences."
+description: "A comprehensive guide on modern techniques to deliver lightning-fast web experiences."
 published: true
 ---
 

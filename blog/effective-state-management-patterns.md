@@ -4,7 +4,7 @@ date: "December 12, 2024"
 tags: ["Architecture", "State Management", "Frontend"]
 slug: "effective-state-management-patterns"
 image: "https://picsum.photos/seed/state-mgt/1600/900"
-excerpt: "Navigating the complex landscape of frontend state management: when to use Context, Redux, Zustand, or simple hooks."
+description: "Navigating the complex landscape of frontend state management: when to use Context, Redux, Zustand, or simple hooks."
 published: true
 ---
 

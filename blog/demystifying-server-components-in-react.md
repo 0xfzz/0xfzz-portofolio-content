@@ -4,7 +4,7 @@ date: "November 05, 2024"
 tags: ["React", "Next.js", "Server Components"]
 slug: "demystifying-server-components-in-react"
 image: "https://picsum.photos/seed/react-rsc/1600/900"
-excerpt: "A deep dive into React Server Components, how they differ from SSR, and why they matter."
+description: "A deep dive into React Server Components, how they differ from SSR, and why they matter."
 published: true
 ---
 

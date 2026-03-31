@@ -4,7 +4,7 @@ date: "March 10, 2025"
 tags: ["Go", "Microservices", "Architecture", "Backend"]
 slug: "building-scalable-microservices-with-go"
 image: "https://picsum.photos/seed/go-microservices/1600/900"
-excerpt: "Exploring the strengths of Go for designing and deploying robust microservice architectures."
+description: "Exploring the strengths of Go for designing and deploying robust microservice architectures."
 published: true
 ---
 

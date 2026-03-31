@@ -1,12 +1,9 @@
 ---
 title: "Aether IoT Gateway"
-shortDescription: "A robust, low-latency edge-gateway protocol bridging lightweight sensory devices securely to the cloud."
 description: "A secure, resilient edge gateway software bridging lightweight local sensors directly to centralized cloud infrastructure."
 image: "https://picsum.photos/seed/aether-iot/1600/900"
-role: "Backend Architect"
-timeline: "Jan 2024 - May 2024"
 technologies: ["Go", "MQTT", "gRPC", "Docker", "PostgreSQL"]
-githubUrl: "https://github.com/example/aether-gateway"
+sourceUrl: "https://github.com/example/aether-gateway"
 liveUrl: "https://docs.aether-iot.example.com"
 slug: "aether-iot-gateway"
 featured: false

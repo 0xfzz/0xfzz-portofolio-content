@@ -3,7 +3,7 @@ title: "Lumina Core Engine"
 description: "A high-concurrency distributed processing engine built for real-time observability in hybrid cloud environments."
 image: "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?q=80&w=2070"
 technologies: ["Go / Golang", "TypeScript", "React", "Docker", "Kubernetes", "Apache Kafka", "gRPC", "Prometheus"]
-githubUrl: "https://github.com/0xfzz/lumina-core"
+sourceUrl: "https://github.com/0xfzz/lumina-core"
 liveUrl: "https://lumina.observability.demo"
 published: true
 ---

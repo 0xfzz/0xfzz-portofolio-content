@@ -1,12 +1,9 @@
 ---
 title: "Cipher Secure Vault"
-shortDescription: "End-to-end encrypted secret management utility for CLI-first developer workflows."
 description: "Cipher Secure Vault creates decentralized, easily sharable, yet heavily encrypted environment variables for developer teams."
 image: "https://picsum.photos/seed/cipher-secure/1600/900"
-role: "Security Engineer"
-timeline: "Feb 2022 - Aug 2022"
 technologies: ["Rust", "Cryptography", "CLI", "AWS KMS"]
-githubUrl: "https://github.com/example/cipher-vault"
+sourceUrl: "https://github.com/example/cipher-vault"
 slug: "cipher-secure-vault"
 featured: false
 published: true

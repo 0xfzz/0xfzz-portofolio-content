@@ -1,12 +1,9 @@
 ---
 title: "Nova Design System"
-shortDescription: "A comprehensive, accessible core UI library distributed across all internal products."
 description: "Nova Design System defines the visual language, interactive behavior, and brand identity across all digital properties, distributed as highly optimized React components."
 image: "https://picsum.photos/seed/nova-design/1600/900"
-role: "UI/UX Engineer"
-timeline: "Ongoing"
 technologies: ["React", "Storybook", "Radix UI", "Tailwind CSS", "Figma"]
-githubUrl: "https://github.com/example/nova-design"
+sourceUrl: "https://github.com/example/nova-design"
 slug: "nova-design-system"
 featured: true
 published: true

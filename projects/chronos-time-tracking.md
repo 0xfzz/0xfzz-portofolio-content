@@ -1,12 +1,9 @@
 ---
 title: "Chronos Time Tracking"
-shortDescription: "A minimalist, privacy-focused application for freelancers to track project hours and invoice efficiently."
 description: "A seamless time-tracking application aiming to maximize user productivity without unnecessary enterprise complexity, perfect for independent consultants."
 image: "https://picsum.photos/seed/chronos-time/1600/900"
-role: "Full Stack Developer"
-timeline: "Mar 2023 - Nov 2023"
 technologies: ["Next.js", "Prisma", "PostgreSQL", "Stripe", "Tailwind CSS"]
-githubUrl: "https://github.com/example/chronos-app"
+sourceUrl: "https://github.com/example/chronos-app"
 liveUrl: "https://chronos-app.example.com"
 slug: "chronos-time-tracking"
 featured: false

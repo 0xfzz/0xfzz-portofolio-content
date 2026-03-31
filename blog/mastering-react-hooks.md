@@ -4,7 +4,7 @@ date: "October 24, 2024"
 tags: ["TypeScript", "Node.js", "Architectural"]
 slug: "mastering-react-hooks"
 image: "https://picsum.photos/seed/hooks-detail/1600/900"
-excerpt: "A deep dive into the underlying mechanics of React Hooks and how they revolutionize component logic."
+description: "A deep dive into the underlying mechanics of React Hooks and how they revolutionize component logic."
 published: true
 ---
 
