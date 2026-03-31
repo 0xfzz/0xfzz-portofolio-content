@@ -20,7 +20,8 @@
   },
   "hero": {
     "title": "Hi, I'm Faiz.",
-    "subtitle": "I am a Software Engineer specializing in Backend Development with a strong interest in Cyber Security. With over a year of experience in software engineering and nearly six months as a cybersecurity intern focused on penetration testing, I have a solid understanding of building efficient yet secure web applications. Through various internship programs, I am confident in adapting to corporate workflows."
+    "subtitle": "Software Engineer & Cyber Security Enthusiast",
+    "description": "I am a Software Engineer specializing in Backend Development with a strong interest in Cyber Security. With over a year of experience in software engineering and nearly six months as a cybersecurity intern focused on penetration testing, I have a solid understanding of building efficient yet secure web applications. Through various internship programs, I am confident in adapting to corporate workflows."
   },
   "footer": {
     "copyright": "© 2026 0xfzz. Built with luvv.",
