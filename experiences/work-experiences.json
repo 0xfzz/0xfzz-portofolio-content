@@ -1,33 +1,36 @@
 [
   {
-    "company": "PT. Pilar Teknotama Sinergis",
-    "role": "Penetration Tester (Internship)",
-    "period": "JUL 2024 - SEP 2024",
+    "company": "PT. Pilar Teknotama Sinergi",
+    "role": "Penetration Tester",
+    "period": "Jul 2024 - Sep 2024",
+    "location": "Sleman, Indonesia",
     "description": [
-      "Melakukan pengujian penetrasi pada sistem perbankan menggunakan Greenbone dan Nmap.",
-      "Identifikasi kerentanan keamanan melalui pengujian penetrasi manual.",
-      "Menyusun laporan teknis rinci dengan rekomendasi solusi dan perbaikan."
+      "Conducted penetration testing on banking systems using automation tools such as Greenbone and Nmap.",
+      "Performed manual penetration testing to identify security vulnerabilities.",
+      "Composed detailed penetration testing reports, outlining discovered vulnerabilities along with recommended solutions and remediations."
     ],
     "tags": [
       "Penetration Testing",
+      "Greenbone",
       "Nmap",
-      "CYBER SECURITY"
+      "Cyber Security"
     ]
   },
   {
     "company": "Badan Sistem Informasi UII",
-    "role": "Software Engineer (Backend Internship)",
-    "period": "AUG 2022 - JUN 2023",
+    "role": "Software Engineer (Backend)",
+    "period": "Aug 2022 - Jun 2023",
+    "location": "Sleman, Indonesia",
     "description": [
-      "Mengembangkan fitur backend sesuai permintaan menggunakan Laravel.",
-      "Berkolaborasi dengan tim Frontend dan tim UI/UX.",
-      "Membuat dokumentasi API komprehensif untuk integrasi frontend."
+      "Developed backend features based on requirements using Laravel.",
+      "Collaborated with Frontend and UI/UX teams.",
+      "Created API documentation and features for frontend consumption."
     ],
     "tags": [
       "Laravel",
       "PHP",
       "Backend Development",
-      "API Design"
+      "API Documentation"
     ]
   }
 ]

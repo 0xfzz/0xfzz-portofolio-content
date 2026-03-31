@@ -2,13 +2,13 @@
   {
     "title": "1st Winner of Bug Bounty 2023",
     "issuer": "Kemdikbud",
-    "date": "AUG 2023",
-    "description": "Pengujian penetrasi terhadap situs web kloningan Kemdikbud. Menemukan SQL Injection, Information Disclosure, dan Unrestricted File Upload."
+    "date": "Aug 2023",
+    "description": "In this competition, I conducted penetration testing on a cloned version of the official Kemdikbud website. The vulnerabilities I discovered primarily included SQL Injection, Information Disclosure, and Unrestricted File Upload."
   },
   {
     "title": "3rd Winner of LKS Web Technology 2022",
     "issuer": "Daerah Istimewa Yogyakarta",
-    "date": "MAY 2022",
-    "description": "Membangun situs web penyaji data IMDb menggunakan scraping JavaScript. Tech stack: Nest.js (Backend) dan Nuxt.js (Frontend)."
+    "date": "May 2022",
+    "description": "This competition is a provincial event for high schools in the Special Region of Yogyakarta. I participated in the Web Technology category, where participants were required to build a website presenting data from IMDb. I performed scraping from IMDb using JavaScript. The tech stack I used was Nest.js for the backend and Nuxt.js for the frontend."
   }
 ]

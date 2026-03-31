@@ -2,13 +2,14 @@
   {
     "institution": "Universitas Teknologi Yogyakarta",
     "degree": "Bachelor of Informatics",
-    "period": "JUN 2023 - PRESENT",
-    "location": "Mlati, Sleman"
+    "period": "Jun 2023 - Present",
+    "location": "Mlati, Sleman",
+    "description": "GPA: -/4.0. Major in Informatics"
   },
   {
     "institution": "SMK Negeri 2 Depok Sleman",
-    "degree": "High School of SIJA (Sistem Informasi Jaringan dan Aplikasi)",
-    "period": "JUL 2019 - MAY 2023",
-    "location": "Sleman, Indonesia"
+    "degree": "High School of SIJA (Information Systems, Network, and Applications)",
+    "period": "Jul 2019 - May 2023",
+    "location": "Depok, Sleman"
   }
 ]
