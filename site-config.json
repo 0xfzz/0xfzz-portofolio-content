@@ -21,7 +21,8 @@
   },
   "hero": {
     "title": "Hi, I'm Faiz.",
-    "subtitle": "Software Engineer & Cyber Security Enthusiast"
+    "subtitle": "Software Engineer & Cyber Security Enthusiast",
+    "image": "https://raw.githubusercontent.com/0xfzz/0xfzz-portofolio-content/refs/heads/master/assets/landing-page/person.jpeg"
   },
   "footer": {
     "copyright": "© 2026 0xfzz. Built with luvv.",
