@@ -3,7 +3,7 @@ title: "First Blog Content : Upcoming Fun Projects and Little Bit Introduction."
 date: "April 21, 2026"
 description: "Welcome to my first blog post! I'm Faiz, and I'll be using this space to share my tech experiments and learning journey. In this debut post, I dive into three projects currently in the works: Ledengsploit, an experimental pipeline workflow for pentest automation; an agent-based Intrusion Detection System with detailed forensic fingerprinting for my university assignment; and a hybrid hydroponics system that I'm prepping for future IoT automation."
 image: ""
-tags: []
+tags: [""]
 featured: false
 published: true
 ---
@@ -73,16 +73,14 @@ This sounds like I might be out of my expertise, right? Yesn’t. I created a hy
 
 Here is what I’ve created so far:
 
-### Next Plan: Automation
-
-My next plan is to make the system more monitored and automated. The systems I want to automate are fault tolerance (switching to DFT when there is a power outage), nutrient-filling automation when the PPM meter shows that the water is low on nutrients, and water-filling automation when the water level is not within the variables I define.
-
-### System Design (NFT vs DFT)
-
 A water gutter-based hydroponic setup that has two holes, top and bottom, at the front of the gutter. What does it do? Why not just put one hole? That is because I want to implement two different hydroponic systems (NFT and DFT). FYI:
 
 - NFT, or Nutrient Film Technique, is a hydroponic system that relies on flowing water continuously. Water from the source → Hydroponic NFT System → Back to the source. This system has a con: when there is an electricity outage, the water in the pipe or gutter will run out, and the plants won't get the water or nutrients they need.
 - DFT, or Deep Flow Technique, is a hydroponic system that, just like NFT, flows water, but it leaves some water in the pipe or gutter because the drainage hole is not all the way at the bottom. So, when there is a power outage, it's safe because the plants have reserve water in the pipe.
+
+### Next Plan: Automation
+
+My next plan is to make the system more monitored and automated. The systems I want to automate are fault tolerance (switching to DFT when there is a power outage), nutrient-filling automation when the PPM meter shows that the water is low on nutrients, and water-filling automation when the water level is not within the variables I define.
 
 ---
 
