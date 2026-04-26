@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "title": "0xfzz | Faiz Nurdiana",
+    "title": "Faiz Nurdiana | Backend Developer & Cybersecurity Enthusiast",
     "name": "Faiz Nurdiana",
-    "description": "Software Engineer specializing in Backend Development and Cybersecurity Specialist."
+    "description": "Faiz Nurdiana is a student and backend developer with an interest in cybersecurity. View my portfolio for projects and technical insights."
   },
   "summary": "I am a Software Engineer specializing in Backend Development with a strong interest in Cyber Security. With over a year of experience in software engineering and nearly six months as a cybersecurity intern focused on penetration testing, I have a solid understanding of building efficient yet secure web applications. Through various internship programs, I am confident in adapting to corporate workflows.",
   "visibility": {
@@ -20,13 +20,13 @@
     "contact": "Contact"
   },
   "hero": {
-    "title": "Hi, I'm Faiz.",
-    "subtitle": "Software Engineer & Cyber Security Enthusiast",
+    "title": "Hiii, I'm Faiz!✨",
+    "subtitle": "Backend Developer & Cybersecurity Enthusiast",
     "image": "https://raw.githubusercontent.com/0xfzz/0xfzz-portofolio-content/refs/heads/master/assets/landing-page/person.jpeg"
   },
   "footer": {
     "copyright": "© 2026 0xfzz. Built with luvv.",
-    "tagline": "Architecting the future, one byte at a time.",
+    "tagline": "Mulai aja dulu.",
     "contactCount": 2
   },
   "pages": {
