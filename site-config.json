@@ -20,9 +20,11 @@
     "contact": "Contact"
   },
   "hero": {
-    "title": "Hiii, I'm Faiz!✨",
-    "subtitle": "Backend Developer & Cybersecurity Enthusiast",
-    "image": "https://raw.githubusercontent.com/0xfzz/0xfzz-portofolio-content/refs/heads/master/assets/landing-page/person.jpeg"
+    "title": "Hiii, I'm Faiz",
+    "subtitle": "Backend Developer & Cybersecurity Enthusiast"
+  },
+  "images": {
+    "hero": "https://raw.githubusercontent.com/0xfzz/0xfzz-portofolio-content/refs/heads/master/assets/landing-page/person.jpg"
   },
   "footer": {
     "copyright": "© 2026 0xfzz. Built with luvv.",
